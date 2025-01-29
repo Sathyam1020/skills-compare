@@ -1,5 +1,5 @@
 import React from 'react'
-import SkillHeatmap from '@/components/HeatTable';
+import SkillHeatmap from '../../components/HeatTable'; 
 
 const page = () => {
   return (
